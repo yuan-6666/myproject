@@ -1,3 +1,7 @@
 简阳 成都
 aaa
+<<<<<<< HEAD
 bbb
+=======
+ccc
+>>>>>>> feature_test
